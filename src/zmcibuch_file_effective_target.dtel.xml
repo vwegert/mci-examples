@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZMCIBUCH_FILE_EFFECTIVE_TARGET</ROLLNAME>
+    <DDLANGUAGE>D</DDLANGUAGE>
+    <DOMNAME>TEXT255</DOMNAME>
+    <HEADLEN>44</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>14</SCRLEN2>
+    <SCRLEN3>30</SCRLEN3>
+    <DDTEXT>tatsächlicher physischer Pfad oder Dateiname</DDTEXT>
+    <REPTEXT>tatsächlicher physischer Pfad oder Dateiname</REPTEXT>
+    <SCRTEXT_S>Pfad/Datei</SCRTEXT_S>
+    <SCRTEXT_M>Pfad/Dateiname</SCRTEXT_M>
+    <SCRTEXT_L>physischer Pfad oder Dateiname</SCRTEXT_L>
+    <DTELMASTER>D</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>

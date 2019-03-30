@@ -1,0 +1,3 @@
+CLASS lcl_hl7_msg_map IMPLEMENTATION.
+
+ENDCLASS.

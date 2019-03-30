@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZMCIBUCH</ARBGB>
+    <MASTERLANG>D</MASTERLANG>
+    <STEXT>Beispiele zum Buch i.s.h.med MCI</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZMCIBUCH</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>Fehler in der MCI-Verarbeitung</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZMCIBUCH</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Die übergebene Nachricht ist keine HL7-Nachricht</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZMCIBUCH</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Falsche HL7-Version &amp;1 (erwartet: Version &amp;2 oder höher)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZMCIBUCH</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Falsche HL7-Nachrichtenstruktur &amp;1 (erwartet: &amp;2)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZMCIBUCH</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Strukturfehler: ROL-Segment (Position &amp;1) ohne vorhergehendes PR1-Segment</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZMCIBUCH</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Inhaltsfehler: ROL-Segment (Position &amp;1) enthält keine LANR</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZMCIBUCH</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Strukturfehler: Fehler beim Feldzugriff in &amp;1-Segment an Position &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZMCIBUCH</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>Fehler beim Zugriff auf Fall &amp;1 in Einrichtung &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZMCIBUCH</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>Zu Fall &amp;1 in Einrichtung &amp;2 sind weder Größe noch Gewicht dokumentiert</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZMCIBUCH</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>HL7-Nachricht enthält an Position &amp;1 OBX-Segment mit ungültiger Set-ID</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZMCIBUCH</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>Die Nachricht enthält das erforderliche TXA-Segment nicht</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZMCIBUCH</ARBGB>
+     <MSGNR>012</MSGNR>
+     <TEXT>Nachrichtenkontext enthält keine Einrichtung und/oder keine Fallnummer</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZMCIBUCH</ARBGB>
+     <MSGNR>013</MSGNR>
+     <TEXT>Ein Datentyp wird unerwarteterweise nicht mehr unterstützt</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZMCIBUCH</ARBGB>
+     <MSGNR>014</MSGNR>
+     <TEXT>Fehler beim Zugriff auf die Kontextdaten</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZMCIBUCH</ARBGB>
+     <MSGNR>015</MSGNR>
+     <TEXT>Fehler bei der Umsetzung der Nachrichteninhalte</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZMCIBUCH</ARBGB>
+     <MSGNR>016</MSGNR>
+     <TEXT>Datei &amp;1 nicht vorhanden</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZMCIBUCH</ARBGB>
+     <MSGNR>017</MSGNR>
+     <TEXT>Datei &amp;1 ist leer</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZMCIBUCH</ARBGB>
+     <MSGNR>018</MSGNR>
+     <TEXT>Datei &amp;1 enthält nur eine Kopfzeile</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZMCIBUCH</ARBGB>
+     <MSGNR>019</MSGNR>
+     <TEXT>Fehler beim Zugriff auf die Eigenschaft &amp;1 der Konfiguration</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZMCIBUCH</ARBGB>
+     <MSGNR>020</MSGNR>
+     <TEXT>Die übergebene Nachricht ist keine Nachricht zur Besuchsanlage</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZMCIBUCH</ARBGB>
+     <MSGNR>021</MSGNR>
+     <TEXT>Testlauf Funktionsbaustein &amp;1:</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZMCIBUCH</ARBGB>
+     <MSGNR>022</MSGNR>
+     <TEXT>(keine Nachrichten erzeugt)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZMCIBUCH</ARBGB>
+     <MSGNR>023</MSGNR>
+     <TEXT>Verbuchungslauf Funktionsbaustein &amp;1:</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZMCIBUCH</ARBGB>
+     <MSGNR>024</MSGNR>
+     <TEXT>Fehler im Testlauf, Abbruch</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZMCIBUCH</ARBGB>
+     <MSGNR>025</MSGNR>
+     <TEXT>Fehler im Verbuchungslauf, Abbruch</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZMCIBUCH</ARBGB>
+     <MSGNR>026</MSGNR>
+     <TEXT>Keine Fehler gemeldet, Änderungen verbucht</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZMCIBUCH</ARBGB>
+     <MSGNR>027</MSGNR>
+     <TEXT>Fehler bei der Verbuchung der Änderungen (&amp;1)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZMCIBUCH</ARBGB>
+     <MSGNR>028</MSGNR>
+     <TEXT>Der Nachrichtenkontext enthält keinen externen Schlüssel</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZMCIBUCH</ARBGB>
+     <MSGNR>029</MSGNR>
+     <TEXT>Der Zugriff auf die Tabelle &amp;1 ist gesperrt</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZMCIBUCH</ARBGB>
+     <MSGNR>030</MSGNR>
+     <TEXT>Der Nachrichtenkontext enthält keine Zeitangabe</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZMCIBUCH</ARBGB>
+     <MSGNR>031</MSGNR>
+     <TEXT>Die Nachricht ist veraltet und wird nicht verarbeitet</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZMCIBUCH</ARBGB>
+     <MSGNR>032</MSGNR>
+     <TEXT>Fehler beim Zugriff auf Bewegung &amp;1 des Falls &amp;2 in Einrichtung &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZMCIBUCH</ARBGB>
+     <MSGNR>034</MSGNR>
+     <TEXT>Stornierte Bewegung &amp;1 wird ignoriert</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZMCIBUCH</ARBGB>
+     <MSGNR>035</MSGNR>
+     <TEXT>Inkonsistenz: Mehrere Bewegungen zum externen Schlüssel &amp;1 gefunden</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZMCIBUCH</ARBGB>
+     <MSGNR>036</MSGNR>
+     <TEXT>Neuanlage einer stornierten Bewegung wird nicht unterstützt</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZMCIBUCH</ARBGB>
+     <MSGNR>037</MSGNR>
+     <TEXT>Bewegung ist bereits storniert</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZMCIBUCH</ARBGB>
+     <MSGNR>038</MSGNR>
+     <TEXT>Konfiguration von &amp;1 Prozessen in &amp;2 µs gelesen</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
